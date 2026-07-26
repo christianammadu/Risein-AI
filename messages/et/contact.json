@@ -1,0 +1,82 @@
+{
+  "ContactPage": {
+    "metadata": {
+      "title": "Võta Riseiniga ühendust",
+      "description": "Võta Riseiniga ühendust tasuta töövoo auditi, tehisintellektil põhineva automatiseerimise, raamatupidamissüsteemide, TaLi SmartBookkeeperi, PersonaLab AI või kohandatud ärilahenduse teemal."
+    },
+    "hero": {
+      "eyebrow": "Alusta vestlust",
+      "title": "Räägi meile, mis sinu ettevõtte tööd aeglustab.",
+      "description": "Taotle tasuta töövoo auditit, aruta mõnda meie toodet või kirjelda äriprotsessi, mida soovid parandada."
+    },
+    "details": {
+      "eyebrow": "Kuidas saame aidata",
+      "title": "Alusta probleemist. Aitame sul leida õige järgmise sammu.",
+      "description": "Enne meiega ühenduse võtmist ei pea sa mõistma tehisintellekti ega automatiseerimist. Kirjelda lihtsalt, mis võtab liiga palju aega, põhjustab vigu või tekitab tarbetut tööd.",
+      "benefits": {
+        "practical": {
+          "title": "Praktilised soovitused",
+          "description": "Keskendume realistlikele süsteemidele, mis sobivad sinu tegeliku töövoo ja olemasolevate võimalustega."
+        },
+        "response": {
+          "title": "Selge vastus",
+          "description": "Vaatame sinu päringu üle ja vastame sobiva järgmise sammuga."
+        },
+        "clear": {
+          "title": "Tehnilist keelt pole vaja",
+          "description": "Kirjelda probleemi lihtsate sõnadega ja aitame lahenduse selgelt üles ehitada."
+        }
+      },
+      "emailTitle": "Eelistad kirjutada otse e-posti teel?",
+      "emailDescription": "Võid meiega ühendust võtta ka aadressil:",
+      "privacy": "Sinu andmeid kasutatakse ainult sinu päringule vastamiseks."
+    },
+    "form": {
+      "fields": {
+        "name": "Täisnimi",
+        "email": "E-posti aadress",
+        "company": "Ettevõte või organisatsioon",
+        "country": "Riik",
+        "interest": "Millest oled huvitatud?",
+        "message": "Räägi meile oma vajadustest"
+      },
+      "placeholders": {
+        "name": "Sisesta oma täisnimi",
+        "email": "sina@example.com",
+        "company": "Sinu ettevõtte nimi",
+        "country": "Sinu riik",
+        "message": "Kirjelda protsessi, probleemi või ideed, mida soovid arutada."
+      },
+      "interests": {
+        "audit": "Tasuta töövoo audit",
+        "starter": "Automatiseerimise stardiplaan",
+        "growth": "Automatiseerimise kasvuplaan",
+        "support": "Toe ja hoolduse plaan",
+        "workflow": "Töövoogude automatiseerimine",
+        "bookkeeping": "Raamatupidamise automatiseerimine",
+        "customer-support": "Klienditoe automatiseerimine",
+        "custom-ai": "Kohandatud AI-assistent või süsteem",
+        "integration": "Äritööriistade integreerimine",
+        "consulting": "AI ja automatiseerimise nõustamine",
+        "tali": "TaLi SmartBookkeeper",
+        "personalab": "PersonaLab AI",
+        "partnership": "Partnerlus või koostöö",
+        "general": "Üldine päring"
+      },
+      "submitButton": "Saada päring",
+      "submittingButton": "Saatmine...",
+      "success": "Aitäh. Sinu päring on edukalt saadetud. Vastame esimesel võimalusel.",
+      "privacy": "Sinu andmeid kasutatakse ainult päringu läbivaatamiseks ja sellele vastamiseks.",
+      "errors": {
+        "required": "Palun sisesta oma nimi, e-posti aadress ja sõnum.",
+        "email": "Palun sisesta kehtiv e-posti aadress.",
+        "messageTooShort": "Palun kirjuta sõnumisse vähemalt 10 tähemärki.",
+        "submit": "Päringu saatmine ebaõnnestus. Palun proovi uuesti."
+      }
+    },
+    "expectation": {
+      "title": "Mis juhtub järgmisena?",
+      "description": "Vaatame esitatud teabe üle, leiame sobivaima lähtepunkti ja vastame praktiliste järgmiste sammudega."
+    }
+  }
+}

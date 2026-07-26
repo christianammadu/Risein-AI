@@ -1,0 +1,134 @@
+{
+  "PricingPage": {
+    "metadata": {
+      "title": "AI Automation Pricing",
+      "description": "Explore flexible Risein AI pricing for workflow audits automation setup AI assistants integrations and ongoing business support."
+    },
+    "hero": {
+      "eyebrow": "Simple and flexible pricing",
+      "title": "Start with one useful automation and grow from there.",
+      "description": "Choose the level of support that matches your current business needs. Every project begins with understanding the process before recommending tools or building anything.",
+      "primaryButton": "Book a Free Audit",
+      "secondaryButton": "View Our Projects"
+    },
+    "billing": {
+      "oneTime": "One-time project",
+      "monthly": "Monthly support",
+      "custom": "Custom engagement",
+      "free": "Free",
+      "from": "From",
+      "recommended": "Most popular"
+    },
+    "plans": {
+      "audit": {
+        "name": "Workflow Audit",
+        "price": "€0",
+        "billing": "Free consultation",
+        "description": "A focused review of one business process to identify repetitive work delays errors and realistic automation opportunities.",
+        "feature1": "One discovery consultation",
+        "feature2": "Review of one important workflow",
+        "feature3": "Automation opportunity summary",
+        "feature4": "Recommended next steps",
+        "feature5": "No obligation to continue",
+        "button": "Book Free Audit"
+      },
+      "starter": {
+        "name": "Starter Automation",
+        "price": "€499",
+        "billing": "One-time project",
+        "description": "A practical first automation for a small repetitive task that currently consumes time or requires frequent manual follow-up.",
+        "feature1": "One clearly defined workflow",
+        "feature2": "Up to three connected tools",
+        "feature3": "Basic testing and error handling",
+        "feature4": "Setup documentation",
+        "feature5": "Fourteen days of post-launch support",
+        "button": "Start Small"
+      },
+      "growth": {
+        "name": "Growth Automation",
+        "price": "€1,499",
+        "billing": "Starting project price",
+        "description": "A connected automation system for businesses that need several tools processes and team activities to work together.",
+        "feature1": "Multiple connected workflow steps",
+        "feature2": "API database or CRM integrations",
+        "feature3": "AI classification or assistance",
+        "feature4": "Advanced validation and notifications",
+        "feature5": "Thirty days of post-launch support",
+        "button": "Build My System"
+      },
+      "support": {
+        "name": "Ongoing Improvement",
+        "price": "€299",
+        "billing": "From per month",
+        "description": "Continuous monitoring maintenance and improvement for businesses already using automation or AI-supported workflows.",
+        "feature1": "Workflow performance monitoring",
+        "feature2": "Small monthly improvements",
+        "feature3": "Technical issue investigation",
+        "feature4": "Priority support",
+        "feature5": "Monthly progress summary",
+        "button": "Discuss Monthly Support"
+      }
+    },
+    "included": {
+      "eyebrow": "Included in every paid project",
+      "title": "More than simply connecting applications.",
+      "description": "Every Risein AI implementation is designed around reliability clarity and the people who will use the system.",
+      "discoveryTitle": "Process discovery",
+      "discoveryDescription": "We understand the current workflow the people involved and the result the business needs.",
+      "designTitle": "Workflow design",
+      "designDescription": "We map the improved process before building so the automation has a clear purpose and structure.",
+      "testingTitle": "Testing and validation",
+      "testingDescription": "We test expected actions incorrect inputs failures and important edge cases before launch.",
+      "handoverTitle": "Documentation and handover",
+      "handoverDescription": "You receive clear guidance explaining how the system works and how your team should use it."
+    },
+    "custom": {
+      "eyebrow": "Need something larger?",
+      "title": "Custom systems for complex business processes.",
+      "description": "Some projects require several departments custom software advanced AI agents or long-term implementation. We provide a tailored scope timeline and quotation after discovery.",
+      "feature1": "Custom AI assistants and agents",
+      "feature2": "Multi-department workflow automation",
+      "feature3": "WhatsApp Telegram email and CRM systems",
+      "feature4": "Bookkeeping customer support and operations automation",
+      "feature5": "Custom dashboards portals and internal tools",
+      "button": "Request a Custom Quote"
+    },
+    "comparison": {
+      "eyebrow": "Choosing the right option",
+      "title": "Which plan fits your business?",
+      "auditTitle": "Choose the Workflow Audit when",
+      "auditDescription": "You know something is inefficient but are not yet sure what should be automated or where to begin.",
+      "starterTitle": "Choose Starter Automation when",
+      "starterDescription": "You have one small clear process such as lead collection reminders data entry or customer follow-up.",
+      "growthTitle": "Choose Growth Automation when",
+      "growthDescription": "Your process crosses several tools includes important business rules or affects multiple team members.",
+      "supportTitle": "Choose Ongoing Improvement when",
+      "supportDescription": "You already use automated systems and need dependable maintenance monitoring and gradual improvements."
+    },
+    "faq": {
+      "eyebrow": "Pricing questions",
+      "title": "Frequently asked questions",
+      "question1": "Are these fixed final prices?",
+      "answer1": "The listed amounts are starting prices. Your final quotation depends on the number of workflow steps integrations users and technical requirements.",
+      "question2": "Do I need to know which automation tool to use?",
+      "answer2": "No. We recommend the tools only after understanding your workflow budget existing systems and future needs.",
+      "question3": "Will I need to pay monthly fees for other platforms?",
+      "answer3": "Some automation AI database messaging or CRM platforms may charge separate subscription or usage fees. These costs are explained before implementation.",
+      "question4": "Can we begin with a small project?",
+      "answer4": "Yes. Starting with one useful workflow is often the safest way to prove value learn from real usage and expand gradually.",
+      "question5": "Do you work with existing automation systems?",
+      "answer5": "Yes. We can review repair improve document or extend workflows that were created previously by your team or another provider.",
+      "question6": "How long does a project take?",
+      "answer6": "A small automation may take one to two weeks. Larger connected systems may require several weeks depending on access integrations testing and feedback."
+    },
+    "notice": {
+      "title": "Important pricing note",
+      "description": "Prices shown are starting estimates and may exclude third-party software subscriptions usage charges taxes and unusually complex custom development. You will receive a clear scope and quotation before paid work begins."
+    },
+    "cta": {
+      "title": "Not sure which option fits your workflow?",
+      "description": "Start with a free conversation. We will examine the process and recommend the smallest sensible solution rather than selling unnecessary complexity.",
+      "button": "Book Your Free Workflow Audit"
+    }
+  }
+}

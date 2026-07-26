@@ -1,0 +1,45 @@
+{
+  "LocaleSwitcher": {
+    "label": "Language",
+    "english": "English",
+    "estonian": "Estonian",
+    "russian": "Russian"
+  },
+  "Navigation": {
+    "mainNavigation": "Main navigation",
+    "home": "Home",
+    "services": "Services",
+    "solutions": "Solutions",
+    "projects": "Solutions",
+    "pricing": "Pricing",
+    "blog": "Blog",
+    "opportunities": "Opportunities",
+    "community": "Community",
+    "marketplace": "Marketplace",
+    "about": "About",
+    "contact": "Contact",
+    "signIn": "Sign In",
+    "freeAudit": "Free Audit",
+    "openMenu": "Open navigation menu",
+    "closeMenu": "Close navigation menu"
+  },
+  "Footer": {
+    "description": "Helping businesses and professionals grow through practical AI automation, career tools, shared opportunities, and community.",
+    "company": "Company",
+    "platform": "Platform",
+    "about": "About",
+    "services": "Services",
+    "solutions": "Solutions",
+    "portfolio": "Solutions",
+    "blog": "Blog",
+    "contact": "Contact",
+    "opportunities": "Opportunities",
+    "careerTools": "Career Tools",
+    "community": "Community",
+    "marketplace": "Marketplace",
+    "privacy": "Privacy Policy",
+    "terms": "Terms of Service",
+    "location": "Tallinn, Estonia",
+    "rights": "All rights reserved."
+  }
+}

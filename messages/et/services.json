@@ -1,0 +1,138 @@
+{
+  "ServicesPage": {
+    "metadata": {
+      "title": "Tehisintellekti automatiseerimise ja äriprotsesside teenused",
+      "description": "Risein AI aitab ettevõtetel automatiseerida korduvat tööd, parandada finantsprotsesse, ühendada tööriistu, luua tehisintellekti assistente ja tõhusamaid ärisüsteeme."
+    },
+    "hero": {
+      "eyebrow": "Tehisintellekti automatiseerimise teenused",
+      "title": "Aitame ettevõtetel vähendada korduvat tööd ja luua targemaid tegevusprotsesse.",
+      "description": "Alates töövoogude auditist ja raamatupidamise automatiseerimisest kuni tehisintellekti assistentide ning ühendatud tööriistadeni loome praktilisi süsteeme teie ettevõtte tegeliku töökorralduse ümber.",
+      "primaryButton": "Broneeri tasuta töövoo audit",
+      "secondaryButton": "Vaata meie lahendusi"
+    },
+    "servicesSection": {
+      "eyebrow": "Mida me teeme",
+      "title": "Praktilised automatiseerimisteenused teie ettevõtte vajaduste jaoks.",
+      "description": "Me ei lisa tehnoloogiat ainult sellepärast, et see on uus. Uurime probleemi, tuvastame aja ja raha kaotamise kohad ning loome kasuliku lahenduse.",
+      "outcomes": "Võimalikud tulemused"
+    },
+    "services": {
+      "workflow": {
+        "label": "Tegevused",
+        "title": "Äriprotsesside automatiseerimine",
+        "description": "Automatiseerime korduvaid protsesse vormide, e-posti, arvutustabelite, andmebaaside, ülesandesüsteemide ja muude äritööriistade vahel.",
+        "outcome1": "Vähendage korduvat käsitsi andmesisestust.",
+        "outcome2": "Liigutage teavet tööriistade vahel automaatselt.",
+        "outcome3": "Looge teavitusi, kinnitusi ja järelülesandeid."
+      },
+      "bookkeeping": {
+        "label": "Rahandus",
+        "title": "Raamatupidamise automatiseerimine",
+        "description": "Aitame ettevõtetel lihtsustada tehingute registreerimist, arvete käsitlemist, kulude korrastamist, aruandlust ja finantshaldust.",
+        "outcome1": "Korrastage müügi- ja kuluandmed.",
+        "outcome2": "Vähendage puuduvaid või dubleeritud tehinguid.",
+        "outcome3": "Looge selgemaid finantskokkuvõtteid."
+      },
+      "support": {
+        "label": "Kliendikogemus",
+        "title": "Klienditoe automatiseerimine",
+        "description": "Loome klienditoe töövooge, mis vastavad levinud küsimustele, liigitavad päringuid, korrastavad juhtumeid ja kaasavad vajaduse korral töötaja.",
+        "outcome1": "Vastake levinud küsimustele kiiremini.",
+        "outcome2": "Korrastage kliendipäringuid automaatselt.",
+        "outcome3": "Suunake keerulised juhtumid õigele inimesele."
+      },
+      "assistant": {
+        "label": "Tehisintellekt",
+        "title": "Kohandatud tehisintellekti assistendid",
+        "description": "Loome sihipäraseid assistente, mis aitavad meeskondadel teavet otsida, vastuseid ette valmistada, teadmisi korrastada ja määratletud ülesandeid täita.",
+        "outcome1": "Leidke ettevõttesisest teavet kiiremini.",
+        "outcome2": "Looge järjepidevaid esialgseid tekste ja vastuseid.",
+        "outcome3": "Toetage töötajaid ilma inimlikku otsustusvõimet asendamata."
+      },
+      "integration": {
+        "label": "Ühendatud süsteemid",
+        "title": "Äritööriistade integreerimine",
+        "description": "Ühendame teie meeskonna olemasoleva tarkvara, et teave liiguks süsteemide vahel turvaliselt ja järjepidevalt.",
+        "outcome1": "Ühendage vormid, e-post, CRM ja andmebaasid.",
+        "outcome2": "Hoidke äriandmed sünkroonis.",
+        "outcome3": "Vähendage platvormide vahel kopeerimist."
+      },
+      "consulting": {
+        "label": "Strateegia",
+        "title": "Tehisintellekti ja automatiseerimise nõustamine",
+        "description": "Hindame teie praeguseid protsesse ja aitame otsustada, kus automatiseerimine on kasulik, realistlik ning äriliselt väärtuslik.",
+        "outcome1": "Tuvastage parimad automatiseerimisvõimalused.",
+        "outcome2": "Seadke projektid väärtuse ja keerukuse järgi tähtsuse järjekorda.",
+        "outcome3": "Looge praktiline rakenduskava."
+      }
+    },
+    "process": {
+      "eyebrow": "Kuidas me töötame",
+      "title": "Selge protsess äriprobleemist toimiva süsteemini.",
+      "description": "Hoiame kogu protsessi arusaadava, koostööpõhise ja mõõdetavale paranemisele suunatuna.",
+      "audit": {
+        "title": "Mõistmine",
+        "description": "Uurime praegust töövoogu, kaasatud inimesi, kasutatavaid tööriistu ning viivitusi või vigu põhjustavaid probleeme."
+      },
+      "plan": {
+        "title": "Kavandamine",
+        "description": "Kaardistame parandatud protsessi, määratleme vajalikud integratsioonid ja lepime kokku eduka tulemuse."
+      },
+      "build": {
+        "title": "Arendamine ja testimine",
+        "description": "Arendame töövoogu kontrollitud etappidena, testime tegelikke olukordi ja kinnitame süsteemi korrektse toimimise."
+      },
+      "improve": {
+        "title": "Käivitamine ja täiustamine",
+        "description": "Võtame süsteemi kasutusele, kogume tagasisidet, jälgime tulemusi ja täiustame seda ettevõtte vajaduste selginemisel."
+      }
+    },
+    "engagement": {
+      "eyebrow": "Koostöövõimalused",
+      "title": "Valige oma ettevõtte vajadustele vastav toetuse tase.",
+      "description": "Alustage selgest hinnangust, tellige täielik automatiseerimisprojekt või saage pärast käivitamist jätkuvat tuge.",
+      "audit": {
+        "label": "Alguspunkt",
+        "title": "Töövoo audit",
+        "description": "Vaatame üle ühe olulise äriprotsessi ja tuvastame viivitused, korduva töö, tarbetud kulud ning realistlikud automatiseerimisvõimalused.",
+        "bestForLabel": "Sobib kõige paremini",
+        "bestFor": "Ettevõtetele, kes teavad, et midagi on ebatõhus, kuid ei ole veel kindlad, mida tuleks automatiseerida.",
+        "button": "Küsi auditit"
+      },
+      "project": {
+        "label": "Täielik rakendamine",
+        "title": "Automatiseerimisprojekt",
+        "description": "Kavandame, arendame, testime ja käivitame kokkulepitud nõuete põhjal täieliku töövoo või tehisintellektiga toetatud ärisüsteemi.",
+        "bestForLabel": "Sobib kõige paremini",
+        "bestFor": "Ettevõtetele, kellel on selge tegevusprobleem ja kes vajavad üldise nõustamise asemel toimivat lahendust.",
+        "button": "Aruta projekti"
+      },
+      "support": {
+        "label": "Jätkuv partnerlus",
+        "title": "Pidev tugi",
+        "description": "Hooldame, jälgime ja täiustame olemasolevaid töövooge, kui teie ettevõte, tööriistad ja tegevusvajadused muutuvad.",
+        "bestForLabel": "Sobib kõige paremini",
+        "bestFor": "Meeskondadele, kes soovivad pärast käivitamist usaldusväärset abi ilma täieliku sisemise automatiseerimisosakonna palkamiseta.",
+        "button": "Aruta pidevat tuge"
+      }
+    },
+    "difference": {
+      "eyebrow": "Teenused ja lahendused",
+      "title": "Kaks erinevat viisi, kuidas Risein AI väärtust loob.",
+      "description": "Meie teenused kohandatakse iga kliendi konkreetsete protsesside ja vajaduste järgi. Meie lahendused on tooted ja platvormid, mille oleme juba loonud või mida praegu arendame.",
+      "servicesLabel": "Teenused",
+      "servicesTitle": "Mida saame teie jaoks luua",
+      "servicesDescription": "Nõustamine, rakendamine, integratsioon ja jätkuv tugi, mis on loodud teie organisatsiooni ümber.",
+      "solutionsLabel": "Lahendused",
+      "solutionsTitle": "Tooted ja süsteemid, mille oleme loonud",
+      "solutionsDescription": "Tutvuge TaLi SmartBookkeeperi, PersonaLab AI, Riseini AI võimaluste ja meie teiste platvormidega.",
+      "solutionsButton": "Tutvu Riseini AI lahendustega"
+    },
+    "cta": {
+      "title": "Milline korduv protsess teie ettevõtet aeglustab?",
+      "description": "Kirjeldage ülesannet, töövoogu või äriprobleemi. Aitame mõista, kas automatiseerimine saab selle lahendada ja milline peaks olema järgmine praktiline samm.",
+      "button": "Broneeri töövoo audit"
+    }
+  }
+}

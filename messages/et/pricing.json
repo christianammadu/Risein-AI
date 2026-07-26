@@ -1,0 +1,134 @@
+{
+  "PricingPage": {
+    "metadata": {
+      "title": "Tehisintellekti automatiseerimise hinnad",
+      "description": "Tutvu Riseini AI paindlike hindadega töövooanalüüsi automatiseerimise tehisintellekti assistentide integratsioonide ja püsiva toe jaoks."
+    },
+    "hero": {
+      "eyebrow": "Lihtne ja paindlik hinnastamine",
+      "title": "Alustage ühest kasulikust automatiseerimisest ja kasvage samm-sammult.",
+      "description": "Valige toe tase mis vastab teie ettevõtte praegustele vajadustele. Iga projekt algab protsessi mõistmisest enne tööriistade soovitamist või lahenduse ehitamist.",
+      "primaryButton": "Broneeri tasuta audit",
+      "secondaryButton": "Vaata meie projekte"
+    },
+    "billing": {
+      "oneTime": "Ühekordne projekt",
+      "monthly": "Igakuine tugi",
+      "custom": "Kohandatud koostöö",
+      "free": "Tasuta",
+      "from": "Alates",
+      "recommended": "Kõige populaarsem"
+    },
+    "plans": {
+      "audit": {
+        "name": "Töövoo audit",
+        "price": "€0",
+        "billing": "Tasuta konsultatsioon",
+        "description": "Ühe äriprotsessi sihipärane ülevaatus korduva töö viivituste vigade ja realistlike automatiseerimisvõimaluste tuvastamiseks.",
+        "feature1": "Üks avastamiskonsultatsioon",
+        "feature2": "Ühe olulise töövoo analüüs",
+        "feature3": "Automatiseerimisvõimaluste kokkuvõte",
+        "feature4": "Soovitatud järgmised sammud",
+        "feature5": "Jätkamise kohustus puudub",
+        "button": "Broneeri tasuta audit"
+      },
+      "starter": {
+        "name": "Stardipaketi automatiseerimine",
+        "price": "€499",
+        "billing": "Ühekordne projekt",
+        "description": "Praktiline esimene automatiseerimine väikese korduva ülesande jaoks mis võtab praegu aega või nõuab pidevat käsitsi järeltegevust.",
+        "feature1": "Üks selgelt määratletud töövoog",
+        "feature2": "Kuni kolm ühendatud tööriista",
+        "feature3": "Põhiline testimine ja vigade käsitlemine",
+        "feature4": "Seadistuse dokumentatsioon",
+        "feature5": "Neliteist päeva käivitamisjärgset tuge",
+        "button": "Alusta väikeselt"
+      },
+      "growth": {
+        "name": "Kasvu automatiseerimine",
+        "price": "€1 499",
+        "billing": "Projekti alghind",
+        "description": "Ühendatud automatiseerimissüsteem ettevõtetele kes vajavad mitme tööriista protsessi ja meeskonnategevuse koostööd.",
+        "feature1": "Mitu ühendatud töövoo etappi",
+        "feature2": "API andmebaasi või CRM-i integratsioonid",
+        "feature3": "Tehisintellektil põhinev liigitamine või abi",
+        "feature4": "Täiustatud kontrollid ja teavitused",
+        "feature5": "Kolmkümmend päeva käivitamisjärgset tuge",
+        "button": "Ehita minu süsteem"
+      },
+      "support": {
+        "name": "Pidev täiustamine",
+        "price": "€299",
+        "billing": "Alates kuus",
+        "description": "Pidev jälgimine hooldus ja täiustamine ettevõtetele kes juba kasutavad automatiseerimist või tehisintellektiga toetatud töövooge.",
+        "feature1": "Töövoo toimivuse jälgimine",
+        "feature2": "Väikesed igakuised täiustused",
+        "feature3": "Tehniliste probleemide uurimine",
+        "feature4": "Eelisjärjekorras tugi",
+        "feature5": "Igakuine edenemise kokkuvõte",
+        "button": "Aruta igakuist tuge"
+      }
+    },
+    "included": {
+      "eyebrow": "Sisaldub igas tasulises projektis",
+      "title": "Rohkem kui lihtsalt rakenduste ühendamine.",
+      "description": "Iga Riseini AI lahendus on kavandatud töökindluse selguse ja süsteemi kasutavate inimeste vajaduste järgi.",
+      "discoveryTitle": "Protsessi avastamine",
+      "discoveryDescription": "Mõistame praegust töövoogu osalevaid inimesi ja tulemust mida ettevõte vajab.",
+      "designTitle": "Töövoo kavandamine",
+      "designDescription": "Kaardistame täiustatud protsessi enne ehitamist et automatiseerimisel oleks selge eesmärk ja struktuur.",
+      "testingTitle": "Testimine ja valideerimine",
+      "testingDescription": "Testime enne käivitamist oodatud tegevusi valesid sisendeid tõrkeid ja olulisi erandjuhtumeid.",
+      "handoverTitle": "Dokumentatsioon ja üleandmine",
+      "handoverDescription": "Saate selged juhised mis selgitavad süsteemi toimimist ja seda kuidas teie meeskond peaks seda kasutama."
+    },
+    "custom": {
+      "eyebrow": "Kas vajate suuremat lahendust?",
+      "title": "Kohandatud süsteemid keerukate äriprotsesside jaoks.",
+      "description": "Mõned projektid hõlmavad mitut osakonda kohandatud tarkvara täiustatud tehisintellekti agente või pikaajalist juurutamist. Pärast vajaduste analüüsi koostame kohandatud ulatuse ajakava ja hinnapakkumise.",
+      "feature1": "Kohandatud tehisintellekti assistendid ja agendid",
+      "feature2": "Mitme osakonna töövoogude automatiseerimine",
+      "feature3": "WhatsAppi Telegrami e-posti ja CRM-i süsteemid",
+      "feature4": "Raamatupidamise klienditoe ja tegevuste automatiseerimine",
+      "feature5": "Kohandatud juhtpaneelid portaalid ja sisetööriistad",
+      "button": "Küsi kohandatud pakkumist"
+    },
+    "comparison": {
+      "eyebrow": "Õige lahenduse valimine",
+      "title": "Milline pakett sobib teie ettevõttele?",
+      "auditTitle": "Valige töövoo audit kui",
+      "auditDescription": "Teate et mõni tegevus on ebatõhus kuid ei ole veel kindel mida tuleks automatiseerida või kust alustada.",
+      "starterTitle": "Valige stardipaketi automatiseerimine kui",
+      "starterDescription": "Teil on üks väike ja selge protsess näiteks müügivihjete kogumine meeldetuletused andmesisestus või klientide järeltegevus.",
+      "growthTitle": "Valige kasvu automatiseerimine kui",
+      "growthDescription": "Teie protsess hõlmab mitut tööriista olulisi ärireegleid või mitut meeskonnaliiget.",
+      "supportTitle": "Valige pidev täiustamine kui",
+      "supportDescription": "Kasutate juba automatiseeritud süsteeme ning vajate töökindlat hooldust jälgimist ja järkjärgulisi täiustusi."
+    },
+    "faq": {
+      "eyebrow": "Hinnastamise küsimused",
+      "title": "Korduma kippuvad küsimused",
+      "question1": "Kas need on lõplikud fikseeritud hinnad?",
+      "answer1": "Näidatud summad on alghinnad. Lõplik pakkumine sõltub töövoo etappide integratsioonide kasutajate ja tehniliste nõuete arvust.",
+      "question2": "Kas ma pean teadma millist automatiseerimistööriista kasutada?",
+      "answer2": "Ei. Soovitame tööriistu alles pärast teie töövoo eelarve olemasolevate süsteemide ja tulevaste vajaduste mõistmist.",
+      "question3": "Kas teiste platvormide eest tuleb maksta kuutasu?",
+      "answer3": "Mõned automatiseerimise tehisintellekti andmebaasi sõnumivahetuse või CRM-i platvormid võivad küsida eraldi liitumis- või kasutustasu. Need kulud selgitatakse enne juurutamist.",
+      "question4": "Kas saame alustada väikese projektiga?",
+      "answer4": "Jah. Ühest kasulikust töövoost alustamine on sageli kõige turvalisem viis väärtuse tõestamiseks tegelikust kasutusest õppimiseks ja järkjärguliseks laienemiseks.",
+      "question5": "Kas töötate olemasolevate automatiseerimissüsteemidega?",
+      "answer5": "Jah. Saame analüüsida parandada täiustada dokumenteerida või laiendada töövooge mille on varem loonud teie meeskond või teine teenusepakkuja.",
+      "question6": "Kui kaua projekt aega võtab?",
+      "answer6": "Väike automatiseerimine võib võtta üks kuni kaks nädalat. Suuremad ühendatud süsteemid võivad sõltuvalt ligipääsust integratsioonidest testimisest ja tagasisidest võtta mitu nädalat."
+    },
+    "notice": {
+      "title": "Oluline hinnamärkus",
+      "description": "Näidatud hinnad on esialgsed hinnangud ning ei pruugi sisaldada kolmandate osapoolte tarkvara liitumistasusid kasutustasusid makse ega ebatavaliselt keerukat kohandatud arendust. Enne tasulise töö alustamist saate selge töömahu ja hinnapakkumise."
+    },
+    "cta": {
+      "title": "Kas te ei ole kindel milline lahendus teie töövoole sobib?",
+      "description": "Alustage tasuta vestlusest. Analüüsime protsessi ja soovitame väikseimat mõistlikku lahendust selle asemel et müüa ebavajalikku keerukust.",
+      "button": "Broneeri tasuta töövoo audit"
+    }
+  }
+}

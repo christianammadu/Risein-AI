@@ -1,0 +1,249 @@
+{
+  "HomePage": {
+    "hero": {
+      "eyebrow": "AI-automatiseerimine • Karjäärivõimalused • Kogukonna loomine",
+      "titleLine1": "Säästa aega.",
+      "titleLine2": "Automatiseeri töö.",
+      "titleLine3": "Kasva kiiremini.",
+      "description": "Risein AI aitab ettevõtetel automatiseerida korduvat tööd AI, kohandatud töövoogude, raamatupidamise automatiseerimise, klienditoe, äriprotsesside automatiseerimise, karjäärivõimaluste jagamise ja kogukonna loomise abil.",
+      "primaryButton": "Broneeri tasuta töövoo audit",
+      "secondaryButton": "Tutvu teenustega",
+      "stats": {
+        "timeSaved": {
+          "title": "Üle 10 tunni säästetud",
+          "description": "Automatiseeri korduv töö igal nädalal."
+        },
+        "bookkeeping": {
+          "title": "AI-raamatupidamine",
+          "description": "TaLi AI toel."
+        },
+        "validation": {
+          "title": "AI-turu valideerimine",
+          "description": "PersonaLab AI toel."
+        }
+      }
+    },
+    "services": {
+      "eyebrow": "Mida me teeme",
+      "title": "Praktilised süsteemid, mis aitavad sinu ettevõttel paremini töötada",
+      "description": "Loome automatiseerimisi, AI-tööriistu ja ärisüsteeme, mis vähendavad korduvat tööd, parandavad täpsust ja annavad sulle rohkem aega kasvule keskendumiseks.",
+      "items": {
+        "workflow": {
+          "title": "Töövoogude automatiseerimine",
+          "description": "Ühenda oma igapäevased tööriistad ja automatiseeri korduvad ülesanded, nagu andmete sisestamine, järeltegevused, teavitused, kinnitamised ja aruandlus."
+        },
+        "bookkeeping": {
+          "title": "Raamatupidamise automatiseerimine",
+          "description": "Salvesta müük, kulud, laoseis, võlad ja äritegevus lihtsamalt praktilise raamatupidamise automatiseerimise abil."
+        },
+        "support": {
+          "title": "Klienditoe automatiseerimine",
+          "description": "Aita klientidel saada kiiremaid vastuseid struktureeritud tugiprotsesside, automaatsete vastuste ja intelligentse suunamise abil."
+        },
+        "assistants": {
+          "title": "Kohandatud AI-assistendid",
+          "description": "Loo keskendunud AI-assistente, mis aitavad uurimistöö, klienditeeninduse, sisemiste toimingute, finantsi ja igapäevaste äriülesannetega."
+        },
+        "consulting": {
+          "title": "Automatiseerimise nõustamine",
+          "description": "Tuvasta aeganõudvad protsessid ja saa selge ning realistlik plaan nende parandamiseks õigete tööriistade abil."
+        },
+        "community": {
+          "title": "Võimalused ja kogukond",
+          "description": "Avasta karjäärivõimalusi, kasulikke materjale, praktilisi juhiseid ja kasvule ning koostööle rajatud kogukonda."
+        }
+      },
+      "button": "Vaata kõiki teenuseid"
+    },
+    "products": {
+      "eyebrow": "Meie tooted",
+      "title": "AI-tooted, mis on loodud tegelike ärivajaduste ümber",
+      "description": "Meie tooted aitavad väikeettevõtetel hallata finantse, testida ideid, mõista kliente ja automatiseerida igapäevast tööd.",
+      "items": {
+        "tali": {
+          "shortName": "Ta",
+          "title": "TaLi AI",
+          "description": "AI-põhine raamatupidamisassistent, mis aitab väikeettevõtetel lihtsate vestluste kaudu salvestada müüki, kulusid, laoseisu, võlgu ja finantstegevust."
+        },
+        "personalab": {
+          "shortName": "PL",
+          "title": "PersonaLab AI",
+          "description": "Klientide simulatsiooni ja turu valideerimise platvorm, mis aitab ettevõtetel enne turuletoomist testida tooteid, ideid, hindu ja sõnumeid."
+        },
+        "automations": {
+          "shortName": "RA",
+          "title": "Risein AI Automations",
+          "description": "Kohandatud AI-assistendid, ühendatud töövood ja äri automatiseerimise süsteemid, mis on loodud sinu organisatsiooni praeguse tööviisi ümber."
+        }
+      }
+    },
+    "whyChooseUs": {
+      "eyebrow": "Miks valida Risein AI",
+      "title": "Praktiline kogemus, mis keskendub tegelikele äritulemustele",
+      "description": "Ühendame äriteadmised, raamatupidamiskogemuse, automatiseerimise ja kaasaegse tehnoloogia, et luua realistlikke, kasulikke ning sinu vajadustele vastavaid lahendusi.",
+      "items": {
+        "expertise": {
+          "title": "Raamatupidamise ja AI-alane pädevus",
+          "description": "Mõistame nii ettevõtte finantse kui ka kaasaegseid AI-tööriistu, mis võimaldab meil luua praktilisi ja tegeliku väärtusega lahendusi."
+        },
+        "businessFirst": {
+          "title": "Äri esikohale seadev lähenemine",
+          "description": "Alustame sinu tegelikust äriprobleemist enne, kui soovitame mõnda tehnoloogiat, platvormi või automatiseerimist."
+        },
+        "automation": {
+          "title": "Töövoogude automatiseerimise spetsialistid",
+          "description": "Tuvastame korduva töö ja ühendame sinu tööriistad, et luua kiiremad, selgemad ja töökindlamad protsessid."
+        },
+        "technology": {
+          "title": "Kaasaegsed pilvetehnoloogiad",
+          "description": "Kasutame paindlikke ja usaldusväärseid pilvetööriistu, mis saavad kasvada koos sinu organisatsiooniga."
+        },
+        "sme": {
+          "title": "Väikeettevõtetele kohandatud lahendused",
+          "description": "Meie süsteemid on loodud olema taskukohased, arusaadavad ja kasulikud väikestele ning kasvavatele ettevõtetele."
+        },
+        "global": {
+          "title": "Asume Eestis ja teenindame kliente üle maailma",
+          "description": "Töötame Eestis ning toetame ettevõtteid, asutajaid ja organisatsioone erinevates riikides."
+        }
+      }
+    },
+    "portfolio": {
+      "eyebrow": "Esiletõstetud tööd",
+      "title": "Projektid, mis on loodud tegelike äriprobleemide lahendamiseks",
+      "description": "Tutvu valitud AI, automatiseerimise, finantsi ja digitaalse kasvu projektidega, mis on loodud praktiliste ärivajaduste ümber.",
+      "button": "Vaata projekti",
+      "viewAllButton": "Tutvu kõigi projektidega",
+      "items": {
+        "tali": {
+          "title": "TaLi AI",
+          "description": "AI-raamatupidamisassistent, mis aitab väikeettevõtetel WhatsAppi ja Telegrami kaudu salvestada müüki, kulusid, laoseisu, võlgu, aruandeid ja finantstegevust."
+        },
+        "personalab": {
+          "title": "PersonaLab AI",
+          "description": "Klientide simulatsiooni ja turu valideerimise platvorm, mis aitab ettevõtetel enne turuletoomisse investeerimist testida tooteid, ideid, hindu ja turundussõnumeid."
+        },
+        "automation": {
+          "title": "Töövoogude automatiseerimine",
+          "description": "Ühendatud äritöövood, mis on loodud automatiseerimisplatvormide, AI-assistentide, API-de ja pilvetööriistade abil, et vähendada korduvat käsitsi tehtavat tööd."
+        },
+        "seo": {
+          "title": "SEO ja sisustrateegia",
+          "description": "Otsingule keskendunud sisu ja digitaalsed strateegiad, mis aitavad ettevõtetel parandada nähtavust, suhelda selgelt ja jõuda veebis õige sihtrühmani."
+        }
+      }
+    },
+    "testimonials": {
+      "eyebrow": "Loome edu koos",
+      "title": "Praktiline tugi varastele äripartneritele",
+      "description": "Risein AI teeb koostööd varajases etapis olevate ettevõtetega, et leida kasulikke automatiseerimisvõimalusi ja luua mõõdetavatel tulemustel põhinevaid usaldusväärseid edulugusid.",
+      "items": {
+        "earlyPartner": {
+          "title": "Saa varajaseks partneriks",
+          "description": "Tee Riseiniga AI tihedat koostööd ja aita kujundada praktilisi automatiseerimislahendusi, luues samal ajal eduloo, mida sinu ettevõte saab uhkusega jagada."
+        },
+        "workflowAudit": {
+          "title": "Alusta tasuta töövoo auditiga",
+          "description": "Vaatame üle korduvad ülesanded, mis aeglustavad sinu meeskonda, ja leiame ühe realistliku võimaluse aja säästmiseks ning töökorralduse parandamiseks."
+        },
+        "tailoredSolutions": {
+          "title": "Saa kohandatud lahendus",
+          "description": "Iga soovitus kujundatakse sinu praeguste tööriistade, äriprotsesside, meeskonna suuruse ja tegelike tegevusvajaduste põhjal."
+        }
+      },
+      "note": "Need kaardid kirjeldavad Riseini Tee Riseiniga tihedat koostööd praegust varajaste partnerite programmi. Kontrollitud klientide tagasiside lisatakse siis, kui lõpetatud projektid annavad mõõdetavaid tulemusi."
+    },
+    "contact": {
+      "eyebrow": "Tasuta töövoo audit",
+      "title": "Avasta, kus sinu ettevõte aega kaotab.",
+      "description": "Räägi meile, millised ülesanded võtavad sinu ettevõttes kõige rohkem aega. Leiame ühe praktilise automatiseerimisvõimaluse ja selgitame, kuidas see võiks sinu töövoogu parandada.",
+      "benefits": {
+        "noObligation": "Kohustusi ei kaasne",
+        "practical": "Praktilised soovitused",
+        "measurable": "Keskendume mõõdetavatele äritulemustele",
+        "international": "Saadaval ettevõtetele Eestis ja rahvusvaheliselt"
+      },
+      "form": {
+        "fullName": {
+          "label": "Täisnimi *",
+          "placeholder": "Sinu täisnimi"
+        },
+        "email": {
+          "label": "E-posti aadress *",
+          "placeholder": "sina@ettevote.ee"
+        },
+        "companyName": {
+          "label": "Ettevõtte nimi",
+          "placeholder": "Sinu ettevõte või organisatsioon"
+        },
+        "businessChallenge": {
+          "label": "Milline ülesanne raiskab kõige rohkem aega? *",
+          "placeholder": "Näiteks müügivihjete käsitsi järeltegevus arvete andmete kopeerimine või korduvatele küsimustele vastamine"
+        },
+        "sending": "Taotluse saatmine...",
+        "submit": "Soovin tasuta auditit"
+      },
+      "success": {
+        "title": "Sinu taotlus saadeti",
+        "anotherRequest": "Saada uus taotlus"
+      },
+      "messages": {
+        "required": "Palun täida kõik kohustuslikud väljad.",
+        "moreInformation": "Palun kirjelda täpsemalt ülesannet, mida soovid automatiseerida.",
+        "sendError": "Sinu taotlust ei saanud saata.",
+        "connectionError": "Serveriga ei õnnestunud ühendust luua. Palun proovi uuesti.",
+        "success": "Täname. Sinu taotlus on vastu võetud. Võtame sinuga peagi ühendust."
+      }
+    },
+    "newsletter": {
+      "eyebrow": "Praktilised AI-teadmised",
+      "title": "Õpi, kuidas eemaldada oma ettevõttest korduv käsitöö.",
+      "description": "Saa kasulikke automatiseerimisideid, töövoo nõuandeid ja uudiseid Riseini AI Tee Riseiniga tihedat koostööd toodete kohta.",
+      "placeholder": "Sisesta oma e-posti aadress",
+      "emailLabel": "E-posti aadress",
+      "button": "Telli uudiskiri",
+      "subscribing": "Tellimine...",
+      "footer": "Rämpsposti ei saadeta. Võid tellimusest igal ajal loobuda.",
+      "messages": {
+        "required": "Palun sisesta oma e-posti aadress.",
+        "success": "Oled Riseini AI uudiskirjaga liitunud.",
+        "error": "Uudiskirjaga liitumist ei õnnestunud lõpule viia.",
+        "connection": "Serveriga ei õnnestunud ühendust luua. Palun proovi uuesti."
+      }
+    },
+    "faq": {
+      "eyebrow": "Korduma Kippuvad Küsimused",
+      "title": "Selged vastused enne alustamist.",
+      "items": {
+        "what": {
+          "question": "Mida Risein AI teeb?",
+          "answer": "Risein AI aitab ettevõtetel vähendada korduvat tööd praktilise AI automatiseerimise, töövoogude kujundamise, raamatupidamise tööriistade ja klienditoe süsteemide abil."
+        },
+        "audit": {
+          "question": "Mis on tasuta töövoo audit?",
+          "answer": "See on lühike ülevaade sinu praegusest tööprotsessist. Leiame ühe ülesande, mis võib raisata aega või raha, ning soovitame praktilist parendust."
+        },
+        "technical": {
+          "question": "Kas mul on vaja tehnilisi teadmisi?",
+          "answer": "Ei. Sina selgitad, kuidas sinu ettevõte töötab, ning Risein hoolitseb tehnilise lahenduse kavandamise ja elluviimise eest."
+        },
+        "automate": {
+          "question": "Mida saab Risein automatiseerida?",
+          "answer": "Näiteks klientide järeltegevused, korduvad e-kirjad, CRM-i uuendused, arvete töötlemine, raamatupidamise töövood, müügivihjete kvalifitseerimine ja WhatsAppi tugi."
+        },
+        "cost": {
+          "question": "Kui palju automatiseerimine maksab?",
+          "answer": "Väiksemad lahendused algavad ligikaudu 300 eurost. Lõplik hind sõltub kasutatavatest süsteemidest ja töövoo keerukusest."
+        },
+        "support": {
+          "question": "Kas Risein AI pakub ka hilisemat tuge?",
+          "answer": "Jah. Pärast juurutamist pakume igakuist jälgimist, hooldust ja täiustamist."
+        },
+        "location": {
+          "question": "Kus Risein AI asub?",
+          "answer": "Risein AI asub Tallinnas Eestis ning teenindab ettevõtteid nii Eestis kui ka rahvusvaheliselt."
+        }
+      }
+    }
+  }
+}

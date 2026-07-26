@@ -1,36 +1,53 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Risein AI
 
-## Getting Started
+Risein AI is a multilingual AI Automation Studio and digital growth platform built to help businesses, professionals and entrepreneurs save time, automate repetitive work and grow using practical AI solutions.
 
-First, run the development server:
+## ✨ Features
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+- 🌍 Multilingual (English, Estonian and Russian)
+- 🤖 AI Automation Services
+- 🎥 AI Video Creation
+- 💼 Business Workflow Automation
+- 📈 AI Products
+- 📚 Business Resources
+- 🌐 Community Platform
+- 💡 Opportunities Hub
+- 📞 Smart Contact Form
+- ⚡ Modern responsive UI
+- 🔍 SEO Optimized
+- ☁️ Production ready deployment
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+---
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## Featured Products
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+### TaLi SmartBookkeeper
 
-## Learn More
+An AI-powered bookkeeping assistant that enables small businesses to record sales, expenses, inventory and debts through WhatsApp and Telegram.
 
-To learn more about Next.js, take a look at the following resources:
+### PersonaLab AI
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+An AI-powered market validation platform that simulates customer reactions before businesses invest in new ideas.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+### Business Automation
 
-## Deploy on Vercel
+Workflow automation solutions that eliminate repetitive tasks and improve business productivity.
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+---
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+## Tech Stack
+
+- Next.js 16
+- TypeScript
+- Tailwind CSS
+- next-intl
+- Supabase
+- Vercel
+- shadcn/ui
+- Lucide React
+
+---
+
+## Status
+
+🚀 Production Ready

@@ -1,0 +1,45 @@
+{
+  "LocaleSwitcher": {
+    "label": "Keel",
+    "english": "Inglise",
+    "estonian": "Eesti",
+    "russian": "Vene"
+  },
+  "Navigation": {
+    "mainNavigation": "Põhinavigatsioon",
+    "home": "Avaleht",
+    "services": "Teenused",
+    "solutions": "Lahendused",
+    "projects": "Lahendused",
+    "pricing": "Hinnad",
+    "blog": "Blogi",
+    "opportunities": "Võimalused",
+    "community": "Kogukond",
+    "marketplace": "Turg",
+    "about": "Meist",
+    "contact": "Kontakt",
+    "signIn": "Logi sisse",
+    "freeAudit": "Tasuta audit",
+    "openMenu": "Ava navigeerimismenüü",
+    "closeMenu": "Sulge navigeerimismenüü"
+  },
+  "Footer": {
+    "description": "Aitame ettevõtetel ja spetsialistidel kasvada praktilise tehisintellekti automatiseerimise, karjääritööriistade, jagatud võimaluste ja kogukonna kaudu.",
+    "company": "Ettevõte",
+    "platform": "Platvorm",
+    "about": "Meist",
+    "services": "Teenused",
+    "solutions": "Lahendused",
+    "portfolio": "Lahendused",
+    "blog": "Blogi",
+    "contact": "Kontakt",
+    "opportunities": "Võimalused",
+    "careerTools": "Karjääritööriistad",
+    "community": "Kogukond",
+    "marketplace": "Turg",
+    "privacy": "Privaatsuspoliitika",
+    "terms": "Kasutustingimused",
+    "location": "Tallinn, Eesti",
+    "rights": "Kõik õigused kaitstud."
+  }
+}

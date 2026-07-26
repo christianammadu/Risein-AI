@@ -1,0 +1,35 @@
+{
+  "BlogPage": {
+    "metadata": {
+      "title": "AI Automation, Business and Career Blog",
+      "description": "Read practical Risein AI articles about AI automation, bookkeeping, business systems, careers, opportunities, Estonia, and Europe."
+    },
+    "hero": {
+      "eyebrow": "Risein AI Blog",
+      "title": "Practical ideas for smarter businesses and stronger careers.",
+      "description": "Explore clear, useful articles about AI automation, bookkeeping, business operations, career growth, opportunities, Estonia, and Europe.",
+      "button": "Suggest a Topic"
+    },
+    "articles": {
+      "eyebrow": "Coming Articles",
+      "title": "Useful guidance without unnecessary jargon.",
+      "description": "We are preparing practical articles designed to help business owners, professionals, job seekers, and builders make better decisions.",
+      "comingSoon": "Article coming soon",
+      "automation": {
+        "category": "AI and Automation",
+        "title": "Business processes every growing company should automate.",
+        "description": "A practical guide to identifying repetitive work that can be automated to save time and reduce mistakes."
+      },
+      "bookkeeping": {
+        "category": "Bookkeeping and Finance",
+        "title": "How conversational bookkeeping can help small businesses.",
+        "description": "An accessible explanation of how businesses can record sales, expenses, inventory, and debts through familiar messaging platforms."
+      },
+      "career": {
+        "category": "Careers and Opportunities",
+        "title": "How to find useful career opportunities across Europe.",
+        "description": "A practical approach to finding jobs, internships, events, scholarships, and professional development opportunities."
+      }
+    }
+  }
+}

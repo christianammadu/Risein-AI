@@ -1,0 +1,82 @@
+{
+  "ContactPage": {
+    "metadata": {
+      "title": "Contact Risein AI",
+      "description": "Contact Risein AI about a free workflow audit, AI automation, bookkeeping systems, TaLi SmartBookkeeper, PersonaLab AI or a custom business solution."
+    },
+    "hero": {
+      "eyebrow": "Start a Conversation",
+      "title": "Tell us what is slowing your business down.",
+      "description": "Request a free workflow audit, discuss one of our products or explain the business process you want to improve."
+    },
+    "details": {
+      "eyebrow": "How We Can Help",
+      "title": "Start with the problem. We will help you identify the right next step.",
+      "description": "You do not need to understand AI or automation before contacting us. Simply describe what takes too much time, causes errors or creates unnecessary work.",
+      "benefits": {
+        "practical": {
+          "title": "Practical recommendations",
+          "description": "We focus on realistic systems that match your actual workflow and resources."
+        },
+        "response": {
+          "title": "Clear response",
+          "description": "We will review your enquiry and respond with an appropriate next step."
+        },
+        "clear": {
+          "title": "No technical language required",
+          "description": "Explain the problem in simple words and we will help structure the solution."
+        }
+      },
+      "emailTitle": "Prefer direct email?",
+      "emailDescription": "You can also contact us directly at:",
+      "privacy": "Your information will only be used to respond to your enquiry."
+    },
+    "form": {
+      "fields": {
+        "name": "Full name",
+        "email": "Email address",
+        "company": "Company or organisation",
+        "country": "Country",
+        "interest": "What are you interested in?",
+        "message": "Tell us about your needs"
+      },
+      "placeholders": {
+        "name": "Enter your full name",
+        "email": "you@example.com",
+        "company": "Your company name",
+        "country": "Your country",
+        "message": "Describe the process, problem or idea you would like to discuss."
+      },
+      "interests": {
+        "audit": "Free workflow audit",
+        "starter": "Starter automation plan",
+        "growth": "Growth automation plan",
+        "support": "Support and maintenance plan",
+        "workflow": "Workflow automation",
+        "bookkeeping": "Bookkeeping automation",
+        "customer-support": "Customer support automation",
+        "custom-ai": "Custom AI assistant or system",
+        "integration": "AI Video Creation",
+        "consulting": "AI and automation consulting",
+        "tali": "TaLi SmartBookkeeper",
+        "personalab": "PersonaLab AI",
+        "partnership": "Partnership or collaboration",
+        "general": "General enquiry"
+      },
+      "submitButton": "Send Enquiry",
+      "submittingButton": "Sending...",
+      "success": "Thank you. Your enquiry has been sent successfully. We will respond as soon as possible.",
+      "privacy": "Your information will only be used to review and respond to your enquiry.",
+      "errors": {
+        "required": "Please complete your name, email address and message.",
+        "email": "Please enter a valid email address.",
+        "messageTooShort": "Please provide at least 10 characters in your message.",
+        "submit": "We could not send your enquiry. Please try again."
+      }
+    },
+    "expectation": {
+      "title": "What happens next?",
+      "description": "We review the information you provide, identify the most suitable starting point and reply with practical next steps."
+    }
+  }
+}

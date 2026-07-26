@@ -1,0 +1,35 @@
+{
+  "BlogPage": {
+    "metadata": {
+      "title": "Tehisintellekti, automatiseerimise, äri ja karjääri blogi",
+      "description": "Loe Riseini AI praktilisi artikleid tehisintellekti automatiseerimisest, raamatupidamisest, ärisüsteemidest, karjäärist, võimalustest, Eestist ja Euroopast."
+    },
+    "hero": {
+      "eyebrow": "Riseini AI blogi",
+      "title": "Praktilised ideed targemate ettevõtete ja tugevamate karjääride jaoks.",
+      "description": "Loe selgeid ja kasulikke artikleid tehisintellekti automatiseerimisest, raamatupidamisest, äritegevusest, karjääri arengust, võimalustest, Eestist ja Euroopast.",
+      "button": "Paku teemat"
+    },
+    "articles": {
+      "eyebrow": "Tulevased artiklid",
+      "title": "Kasulikud juhised ilma tarbetu erialakeeleta.",
+      "description": "Valmistame ette praktilisi artikleid, mis aitavad ettevõtjatel, spetsialistidel, tööotsijatel ja loojatel teha paremaid otsuseid.",
+      "comingSoon": "Artikkel ilmub peagi",
+      "automation": {
+        "category": "Tehisintellekt ja automatiseerimine",
+        "title": "Äriprotsessid, mida iga kasvav ettevõte peaks automatiseerima.",
+        "description": "Praktiline juhend korduva töö tuvastamiseks, mida saab aja säästmiseks ja vigade vähendamiseks automatiseerida."
+      },
+      "bookkeeping": {
+        "category": "Raamatupidamine ja rahandus",
+        "title": "Kuidas vestluspõhine raamatupidamine aitab väikeettevõtteid.",
+        "description": "Lihtne selgitus, kuidas ettevõtted saavad tuttavate sõnumiplatvormide kaudu registreerida müüki, kulusid, laoseisu ja võlgasid."
+      },
+      "career": {
+        "category": "Karjäär ja võimalused",
+        "title": "Kuidas leida kasulikke karjäärivõimalusi kogu Euroopas.",
+        "description": "Praktiline lähenemine töökohtade, praktikate, sündmuste, stipendiumide ja arenguvõimaluste leidmisele."
+      }
+    }
+  }
+}

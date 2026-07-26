@@ -1,0 +1,131 @@
+{
+  "PortfolioPage": {
+    "metadata": {
+      "title": "Tehisintellekti tooted ja ärilahendused",
+      "description": "Tutvuge Riseini lahendustega, sealhulgas TaLi SmartBookkeeperi, PersonaLab AI, ärivõimaluste platvormide ja intelligentsete automatiseerimissüsteemidega."
+    },
+    "hero": {
+      "eyebrow": "Riseini AI lahendused",
+      "title": "Tooted ja platvormid, mis lahendavad tegelikke äri- ja karjääriprobleeme.",
+      "description": "Meie lahendused muudavad praktilised ideed toimivateks süsteemideks – vestluspõhisest raamatupidamisest ja turu valideerimisest kuni võimaluste, kogukondade ja ühendatud äriplatvormideni.",
+      "primaryButton": "Aruta lahendust",
+      "secondaryButton": "Tutvu meie teenustega"
+    },
+    "introduction": {
+      "eyebrow": "Mida me loome",
+      "title": "Rohkem kui ideed. Praktilised süsteemid tegelikele kasutajatele.",
+      "description": "Iga Riseini AI lahendus algab selgest probleemist ning arendatakse ligipääsetavuse, praktilise väärtuse ja mõõdetava paranemise ümber.",
+      "stat1": {
+        "value": "Tehisintellektil põhinev",
+        "label": "Sihipärased tooted, mis aitavad kasutajatel konkreetseid ülesandeid täita."
+      },
+      "stat2": {
+        "value": "Vestluspõhine",
+        "label": "Lihtsasti kasutatavad lahendused tööriistades, mida inimesed juba tunnevad."
+      },
+      "stat3": {
+        "value": "Loodud kasvama",
+        "label": "Modulaarsed platvormid, mida saab pidevalt edasi arendada."
+      }
+    },
+    "tali": {
+      "eyebrow": "Juhtiv lahendus",
+      "title": "TaLi SmartBookkeeper",
+      "subtitle": "Raamatupidamine ja ettevõtte juhtimine vestluse kaudu.",
+      "description": "TaLi muudab WhatsAppi ja Telegrami väikeettevõtete intelligentseks finantstöökeskkonnaks. Kasutajad saavad lihtsas igapäevases keeles registreerida müüki, oste, laoseisu ja võlgasid ning saada vastu korrastatud äriteavet.",
+      "status": "Töötav prototüüp",
+      "button": "Aruta TaLi lahendust",
+      "previewTitle": "Äritehingute assistent",
+      "previewUser": "Ettevõtte omanik",
+      "previewMessage": "Müüsin viis kotti riisi 180 000 naira eest. Klient maksis 120 000 nairat ja tasub ülejäänu hiljem.",
+      "previewResponse": "Tehing edukalt registreeritud.",
+      "previewDetails": "Müük: ₦180 000 · Laekunud: ₦120 000 · Kliendi võlg: ₦60 000",
+      "features": {
+        "transactions": {
+          "title": "Tehingute registreerimine",
+          "description": "Registreerige müük, ostud ja kulud loomuliku vestluse kaudu."
+        },
+        "inventory": {
+          "title": "Laoseisu jälgimine",
+          "description": "Jälgige kaupade liikumist ja saage hoiatusi, kui varud hakkavad lõppema."
+        },
+        "debts": {
+          "title": "Võlgade jälgimine",
+          "description": "Hoidke korrastatud arvestust klientide kohta, kes on endiselt raha võlgu."
+        },
+        "reports": {
+          "title": "Ärikokkuvõtted",
+          "description": "Saage arusaadavaid finants- ja tegevusaruandeid."
+        }
+      }
+    },
+    "persona": {
+      "eyebrow": "Turuanalüüs",
+      "title": "PersonaLab AI",
+      "subtitle": "Testige ideed simuleeritud kliendiperspektiivide abil.",
+      "description": "PersonaLab aitab asutajatel ja meeskondadel uurida, kuidas erinevad kliendirühmad võivad reageerida tootele, teenusele, kampaaniale või poliitikale enne suurema investeeringu tegemist.",
+      "status": "Prototüüp loodud",
+      "button": "Aruta PersonaLabi",
+      "previewEyebrow": "Kliendisimulatsioon",
+      "previewTitle": "Mida võiksid erinevad kliendid teie ideest arvata?",
+      "features": {
+        "personas": {
+          "title": "Mitmekesised kliendipersoonad",
+          "description": "Vaadake ideed erinevatest demograafilistest ja käitumuslikest vaatenurkadest."
+        },
+        "validation": {
+          "title": "Kontseptsiooni valideerimine",
+          "description": "Tuvastage võimalik huvi, vastuväited ja kasutuselevõtu takistused."
+        },
+        "feedback": {
+          "title": "Struktureeritud tagasiside",
+          "description": "Võrrelge erinevate klientide reaktsioone ühe üldise arvamuse asemel."
+        },
+        "recommendations": {
+          "title": "Praktilised soovitused",
+          "description": "Saage soovitusi positsioneerimise, hinnastamise ja toote parandamise kohta."
+        }
+      }
+    },
+    "platforms": {
+      "eyebrow": "Riseini AI ökosüsteem",
+      "title": "Platvormid, mis ühendavad inimesi kasulike võimalustega.",
+      "description": "Meie kasvav ökosüsteem ühendab võimalused, teadmised, kogukonna toe ja professionaalsed teenused.",
+      "opportunities": {
+        "label": "Karjäär ja areng",
+        "title": "Risein AI Opportunities",
+        "description": "Platvorm töökohtade, praktikakohtade, ürituste, sertifikaatide, toetuste ja muude arenguvõimaluste leidmiseks Euroopas ja Aafrikas.",
+        "status": "Arendamisel"
+      },
+      "community": {
+        "label": "Teadmised ja tugi",
+        "title": "Risein AI Community",
+        "description": "Sihipärane keskkond, kus liikmed saavad esitada küsimusi, jagada praktilisi teadmisi ja toetada üksteise professionaalset arengut.",
+        "status": "Planeeritud platvorm"
+      },
+      "marketplace": {
+        "label": "Teenused ja ressursid",
+        "title": "Risein Marketplace",
+        "description": "Tulevane turg, mis ühendab kasutajad usaldusväärsete ekspertide, keeleõpetajate, digitaalsete materjalide, mentorite ja professionaalse toega.",
+        "status": "Tulevane väljalase"
+      }
+    },
+    "custom": {
+      "eyebrow": "Kohandatud süsteemid",
+      "title": "Iga äriprobleem ei vaja valmistoodet.",
+      "description": "Lisaks oma platvormidele loob Risein AI kohandatud töövooge ja tehisintellektiga toetatud süsteeme organisatsioonidele, kellel on konkreetsed tegevusvajadused.",
+      "items": {
+        "one": "Automatiseeritud klienditugi ja päringute haldamine.",
+        "two": "Ühendatud finants-, müügi- ja haldustöövood.",
+        "three": "Ettevõttesisesed teadmiste assistendid ja infosüsteemid.",
+        "four": "Kohandatud integratsioonid olemasolevate äritööriistade vahel."
+      },
+      "button": "Tutvu meie teenustega"
+    },
+    "cta": {
+      "title": "Kas olete huvitatud mõnest meie lahendusest või kohandatud süsteemist?",
+      "description": "Öelge meile, milline toode teid huvitab, või kirjeldage probleemi, mille teie organisatsioon peab lahendama.",
+      "button": "Alusta vestlust"
+    }
+  }
+}

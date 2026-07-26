@@ -1,0 +1,47 @@
+{
+  "AboutPage": {
+    "metadata": {
+      "title": "About Risein AI",
+      "description": "Learn about Risein AI's mission to help businesses and professionals grow through practical AI automation, useful systems, opportunities, and community."
+    },
+    "hero": {
+      "eyebrow": "About Risein AI",
+      "title": "Building practical systems that help businesses and people move forward.",
+      "description": "Risein AI combines business understanding, automation, technology, and community to solve everyday problems and create useful opportunities.",
+      "primaryButton": "Work With Risein AI",
+      "secondaryButton": "Explore Our Solutions"
+    },
+    "mission": {
+      "eyebrow": "Our Mission",
+      "title": "Make useful technology more practical and accessible.",
+      "description1": "Risein AI exists to help businesses reduce repetitive work, organise their operations, and use AI automation in ways that create clear value.",
+      "description2": "We are also building a wider ecosystem where professionals can discover opportunities, access useful resources, share knowledge, and grow together."
+    },
+    "values": {
+      "eyebrow": "How We Think",
+      "title": "Principles that guide what we build.",
+      "description": "We aim to create technology and platforms that are useful, understandable, responsible, and connected to real needs.",
+      "practical": {
+        "title": "Practical first",
+        "description": "We begin with the actual problem and choose the simplest useful solution."
+      },
+      "human": {
+        "title": "Human-centred",
+        "description": "Technology should support people, reduce frustration, and make work easier."
+      },
+      "responsible": {
+        "title": "Responsible growth",
+        "description": "We value honest communication, thoughtful decisions, and systems people can trust."
+      },
+      "improvement": {
+        "title": "Continuous learning",
+        "description": "We test, listen, learn, and improve as the needs of users and businesses evolve."
+      }
+    },
+    "cta": {
+      "title": "Let us build something useful together.",
+      "description": "Tell us about your business challenge, repetitive workflow, platform idea, or professional community need.",
+      "button": "Start a Conversation"
+    }
+  }
+}

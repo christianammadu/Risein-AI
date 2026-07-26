@@ -1,0 +1,47 @@
+{
+  "AboutPage": {
+    "metadata": {
+      "title": "Riseinist AI",
+      "description": "Tutvu Riseini AI missiooniga aidata ettevõtetel ja spetsialistidel kasvada praktilise tehisintellekti automatiseerimise, kasulike süsteemide, võimaluste ja kogukonna kaudu."
+    },
+    "hero": {
+      "eyebrow": "Riseinist AI",
+      "title": "Loome praktilisi süsteeme, mis aitavad ettevõtetel ja inimestel edasi liikuda.",
+      "description": "Risein AI ühendab äritegevuse mõistmise, automatiseerimise, tehnoloogia ja kogukonna, et lahendada igapäevaseid probleeme ning luua kasulikke võimalusi.",
+      "primaryButton": "Tööta Riseiniga",
+      "secondaryButton": "Tutvu meie lahendustega"
+    },
+    "mission": {
+      "eyebrow": "Meie missioon",
+      "title": "Muuta kasulik tehnoloogia praktilisemaks ja kättesaadavamaks.",
+      "description1": "Risein AI aitab ettevõtetel vähendada korduvat tööd, korrastada tegevusi ja kasutada tehisintellekti automatiseerimist viisil, mis loob selget väärtust.",
+      "description2": "Samuti ehitame laiemat keskkonda, kus spetsialistid saavad avastada võimalusi, kasutada kasulikke ressursse, jagada teadmisi ja koos areneda."
+    },
+    "values": {
+      "eyebrow": "Kuidas me mõtleme",
+      "title": "Põhimõtted, mis juhivad meie tööd.",
+      "description": "Soovime luua tehnoloogiat ja platvorme, mis on kasulikud, arusaadavad, vastutustundlikud ning seotud tegelike vajadustega.",
+      "practical": {
+        "title": "Praktilisus ennekõike",
+        "description": "Alustame tegelikust probleemist ja valime kõige lihtsama kasuliku lahenduse."
+      },
+      "human": {
+        "title": "Inimesekeskne",
+        "description": "Tehnoloogia peaks inimesi toetama, vähendama pettumust ja muutma töö lihtsamaks."
+      },
+      "responsible": {
+        "title": "Vastutustundlik kasv",
+        "description": "Väärtustame ausat suhtlust, läbimõeldud otsuseid ja süsteeme, mida inimesed saavad usaldada."
+      },
+      "improvement": {
+        "title": "Pidev õppimine",
+        "description": "Testime, kuulame, õpime ja täiustame lahendusi kasutajate ning ettevõtete vajaduste arenemisel."
+      }
+    },
+    "cta": {
+      "title": "Loome koos midagi kasulikku.",
+      "description": "Rääkige meile oma äriprobleemist, korduvast töövoost, platvormiideest või professionaalse kogukonna vajadusest.",
+      "button": "Alusta vestlust"
+    }
+  }
+}

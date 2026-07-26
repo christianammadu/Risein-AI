@@ -1,0 +1,249 @@
+{
+  "HomePage": {
+    "hero": {
+      "eyebrow": "AI Automation Platform • Career Opportunities • Community Building",
+      "titleLine1": "Save Time.",
+      "titleLine2": "Automate Work.",
+      "titleLine3": "Grow Faster.",
+      "description": "Risein AI helps businesses automate repetitive work using AI, custom workflows, bookkeeping automation, customer support, business process automation, sharing career opportunities, and community building.",
+      "primaryButton": "Book Free Workflow Audit",
+      "secondaryButton": "Explore Services",
+      "stats": {
+        "timeSaved": {
+          "title": "10+ Hours Saved",
+          "description": "Automate repetitive work every week."
+        },
+        "bookkeeping": {
+          "title": "AI Bookkeeping",
+          "description": "Powered by TaLi AI."
+        },
+        "validation": {
+          "title": "AI Market Validation",
+          "description": "Powered by PersonaLab AI."
+        }
+      }
+    },
+    "services": {
+      "eyebrow": "What We Do",
+      "title": "Practical systems that help your business work better",
+      "description": "We design automation, AI tools, and business systems that reduce repetitive work, improve accuracy, and give you more time to focus on growth.",
+      "items": {
+        "workflow": {
+          "title": "Workflow Automation",
+          "description": "Connect your everyday tools and automate repetitive tasks such as data entry, follow-ups, notifications, approvals, and reporting."
+        },
+        "bookkeeping": {
+          "title": "Bookkeeping Automation",
+          "description": "Record sales, expenses, inventory, debts, and business activity more easily using practical bookkeeping automation."
+        },
+        "support": {
+          "title": "Customer Support Automation",
+          "description": "Help customers receive faster answers through structured support workflows, automated responses, and intelligent routing."
+        },
+        "assistants": {
+          "title": "Custom AI Assistants",
+          "description": "Create focused AI assistants that help with research, customer service, internal operations, finance, and daily business tasks."
+        },
+        "consulting": {
+          "title": "Automation Consulting",
+          "description": "Identify time-consuming processes and receive a clear, realistic plan for improving them with the right tools."
+        },
+        "community": {
+          "title": "Opportunities and Community",
+          "description": "Discover career opportunities, useful resources, practical guidance, and a community built around growth and collaboration."
+        }
+      },
+      "button": "View All Services"
+    },
+    "products": {
+      "eyebrow": "Our Products",
+      "title": "AI products built around real business needs",
+      "description": "Our products help small businesses manage finances, test ideas, understand customers, and automate everyday work.",
+      "items": {
+        "tali": {
+          "shortName": "Ta",
+          "title": "TaLi AI",
+          "description": "An AI-powered bookkeeping assistant that helps small businesses record sales, expenses, inventory, debts, and financial activity through simple conversations."
+        },
+        "personalab": {
+          "shortName": "PL",
+          "title": "PersonaLab AI",
+          "description": "A customer simulation and market validation platform that helps businesses test products, ideas, pricing, and messaging before launch."
+        },
+        "automations": {
+          "shortName": "RA",
+          "title": "Risein AI Automations",
+          "description": "Custom AI assistants, connected workflows, and business automation systems designed around the way your organisation already works."
+        }
+      }
+    },
+    "whyChooseUs": {
+      "eyebrow": "Why Risein AI",
+      "title": "Practical expertise focused on real business results",
+      "description": "We combine business knowledge, accounting experience, automation, and modern technology to create solutions that are realistic, useful, and built around your needs.",
+      "items": {
+        "expertise": {
+          "title": "Accounting and AI expertise",
+          "description": "We understand both business finances and modern AI tools, allowing us to build practical solutions with real operational value."
+        },
+        "businessFirst": {
+          "title": "Business-first approach",
+          "description": "We begin with your actual business problem before recommending any technology, platform, or automation."
+        },
+        "automation": {
+          "title": "Workflow automation specialists",
+          "description": "We identify repetitive work and connect your tools to create faster, clearer, and more reliable processes."
+        },
+        "technology": {
+          "title": "Modern cloud technologies",
+          "description": "We use flexible and reliable cloud tools that can grow alongside your organisation."
+        },
+        "sme": {
+          "title": "Solutions tailored for SMEs",
+          "description": "Our systems are designed to be affordable, understandable, and useful for small and growing businesses."
+        },
+        "global": {
+          "title": "Based in Estonia, serving globally",
+          "description": "We work from Estonia while supporting businesses, founders, and organisations across different countries."
+        }
+      }
+    },
+    "portfolio": {
+      "eyebrow": "Featured Work",
+      "title": "Projects designed to solve real business problems",
+      "description": "Explore selected AI, automation, finance, and digital growth projects developed around practical business needs.",
+      "button": "View Project",
+      "viewAllButton": "Explore All Projects",
+      "items": {
+        "tali": {
+          "title": "TaLi AI",
+          "description": "An AI bookkeeping assistant that helps small businesses record sales, expenses, inventory, debts, reports, and financial activity through WhatsApp and Telegram."
+        },
+        "personalab": {
+          "title": "PersonaLab AI",
+          "description": "A customer simulation and market validation platform that helps businesses test products, ideas, pricing, and marketing messages before investing in a launch."
+        },
+        "automation": {
+          "title": "Workflow Automation",
+          "description": "Connected business workflows built with automation platforms, AI assistants, APIs, and cloud tools to reduce repetitive manual work."
+        },
+        "seo": {
+          "title": "SEO and Content Strategy",
+          "description": "Search-focused content and digital strategies that help businesses improve visibility, communicate clearly, and reach the right audience online."
+        }
+      }
+    },
+    "testimonials": {
+      "eyebrow": "Building Success Together",
+      "title": "Practical support for early business partners",
+      "description": "Risein AI is working with early-stage businesses to identify useful automation opportunities and build credible success stories based on measurable results.",
+      "items": {
+        "earlyPartner": {
+          "title": "Become an early partner",
+          "description": "Work closely with Risein AI and help shape practical automation solutions while building a success story your business can proudly share."
+        },
+        "workflowAudit": {
+          "title": "Start with a free workflow audit",
+          "description": "We review the repetitive tasks slowing down your team and identify one realistic opportunity for saving time and improving operations."
+        },
+        "tailoredSolutions": {
+          "title": "Receive a tailored solution",
+          "description": "Every recommendation is designed around your current tools, business processes, team size, and actual operational needs."
+        }
+      },
+      "note": "These cards describe Risein AI's current early-partner programme. Verified client testimonials will be added as completed projects produce measurable results."
+    },
+    "contact": {
+      "eyebrow": "Free Workflow Audit",
+      "title": "Discover where your business is losing time.",
+      "description": "Tell us which tasks consume the most time in your business. We will identify one practical automation opportunity and explain how it could improve your workflow.",
+      "benefits": {
+        "noObligation": "No obligation",
+        "practical": "Practical recommendations",
+        "measurable": "Focused on measurable business results",
+        "international": "Available to businesses in Estonia and internationally"
+      },
+      "form": {
+        "fullName": {
+          "label": "Full name *",
+          "placeholder": "Your full name"
+        },
+        "email": {
+          "label": "Email address *",
+          "placeholder": "you@company.com"
+        },
+        "companyName": {
+          "label": "Company name",
+          "placeholder": "Your business or company"
+        },
+        "businessChallenge": {
+          "label": "What task is wasting the most time? *",
+          "placeholder": "For example manually following up with leads copying invoice details or answering repeated questions"
+        },
+        "sending": "Sending request...",
+        "submit": "Request my free audit"
+      },
+      "success": {
+        "title": "Your request was sent",
+        "anotherRequest": "Send another request"
+      },
+      "messages": {
+        "required": "Please complete all required fields.",
+        "moreInformation": "Please provide more information about the task you want to automate.",
+        "sendError": "Your request could not be sent.",
+        "connectionError": "We could not connect to the server. Please try again.",
+        "success": "Thank you. Your request has been received. We will contact you shortly."
+      }
+    },
+    "newsletter": {
+      "eyebrow": "Practical AI Insights",
+      "title": "Learn how to remove repetitive work from your business.",
+      "description": "Receive useful automation ideas, business workflow tips and updates about Risein AI products.",
+      "placeholder": "Enter your email address",
+      "emailLabel": "Email address",
+      "button": "Subscribe",
+      "subscribing": "Subscribing...",
+      "footer": "No spam. Unsubscribe whenever you choose.",
+      "messages": {
+        "required": "Please enter your email address.",
+        "success": "You are subscribed to the Risein AI newsletter.",
+        "error": "We could not complete your subscription.",
+        "connection": "We could not connect to the server. Please try again."
+      }
+    },
+    "faq": {
+      "eyebrow": "Frequently Asked Questions",
+      "title": "Clear answers before we begin.",
+      "items": {
+        "what": {
+          "question": "What does Risein AI do?",
+          "answer": "Risein AI helps businesses reduce repetitive work through practical AI automation, workflow design, bookkeeping tools and customer-support systems."
+        },
+        "audit": {
+          "question": "What is a free workflow audit?",
+          "answer": "It is a short review of your current process. We identify one task that may be costing your business unnecessary time or money and suggest a practical improvement."
+        },
+        "technical": {
+          "question": "Do I need technical knowledge?",
+          "answer": "No. You explain how your business currently works, and Risein handles the technical design and implementation."
+        },
+        "automate": {
+          "question": "What can Risein AI automate?",
+          "answer": "Examples include customer follow-ups, repeated email responses, CRM updates, invoice handling, bookkeeping workflows, lead qualification and WhatsApp support."
+        },
+        "cost": {
+          "question": "How much does an automation cost?",
+          "answer": "Small implementations may start from approximately €300. The final cost depends on the number of systems involved and the complexity of the workflow."
+        },
+        "support": {
+          "question": "Does Risein AI provide ongoing support?",
+          "answer": "Yes. Monthly monitoring, maintenance and improvement packages are available after implementation."
+        },
+        "location": {
+          "question": "Where is Risein AI based?",
+          "answer": "Risein AI is based in Tallinn, Estonia, and can work remotely with businesses in Estonia and internationally."
+        }
+      }
+    }
+  }
+}

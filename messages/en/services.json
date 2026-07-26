@@ -1,0 +1,138 @@
+{
+  "ServicesPage": {
+    "metadata": {
+      "title": "AI Automation and Business Workflow Services",
+      "description": "Risein AI helps businesses automate repetitive work, improve financial processes, connect tools, build AI assistants and create more efficient business systems."
+    },
+    "hero": {
+      "eyebrow": "AI Automation Services",
+      "title": "We help businesses remove repetitive work and build smarter operations.",
+      "description": "From workflow audits and bookkeeping automation to AI assistants and connected business tools, we design practical systems around the way your organisation already works.",
+      "primaryButton": "Book a Free Workflow Audit",
+      "secondaryButton": "View Our Solutions"
+    },
+    "servicesSection": {
+      "eyebrow": "What We Do",
+      "title": "Practical automation services built around your business.",
+      "description": "We do not introduce technology simply because it is new. We study the problem, identify where time and money are being lost, and build a useful solution.",
+      "outcomes": "Possible outcomes"
+    },
+    "services": {
+      "workflow": {
+        "label": "Operations",
+        "title": "Business Workflow Automation",
+        "description": "We automate repetitive processes across forms, email, spreadsheets, databases, task systems and other business tools.",
+        "outcome1": "Reduce repeated manual data entry.",
+        "outcome2": "Move information automatically between tools.",
+        "outcome3": "Create alerts, approvals and follow-up tasks."
+      },
+      "bookkeeping": {
+        "label": "Finance",
+        "title": "Bookkeeping Automation",
+        "description": "We help businesses simplify transaction recording, invoice handling, expense organisation, reporting and financial administration.",
+        "outcome1": "Organise sales and expense records.",
+        "outcome2": "Reduce missing or duplicated transactions.",
+        "outcome3": "Create clearer financial summaries."
+      },
+      "support": {
+        "label": "Customer Experience",
+        "title": "Customer Support Automation",
+        "description": "We create support workflows that answer common questions, classify requests, organise cases and involve a human when necessary.",
+        "outcome1": "Respond faster to common questions.",
+        "outcome2": "Organise customer requests automatically.",
+        "outcome3": "Send complex cases to the right person."
+      },
+      "assistant": {
+        "label": "Artificial Intelligence",
+        "title": "Custom AI Assistants",
+        "description": "We build focused AI assistants that help teams search information, prepare responses, organise knowledge and complete defined tasks.",
+        "outcome1": "Find internal information more quickly.",
+        "outcome2": "Create consistent first drafts and responses.",
+        "outcome3": "Support staff without replacing human judgement."
+      },
+      "integration": {
+        "label": "AI Content",
+        "title": "AI Video Creation",
+        "description": "We create professional AI-powered videos that help businesses market their products, educate customers and grow their online presence faster and more affordably.",
+        "outcome1": "Create AI avatar and spokesperson videos.",
+        "outcome2": "Produce videos for TikTok, Instagram, Facebook and YouTube.",
+        "outcome3": "Generate product demos, adverts and training videos."
+      },
+      "consulting": {
+        "label": "Strategy",
+        "title": "AI and Automation Consulting",
+        "description": "We assess your current processes and help you decide where automation is useful, realistic and commercially valuable.",
+        "outcome1": "Identify the best automation opportunities.",
+        "outcome2": "Prioritise projects by value and complexity.",
+        "outcome3": "Create a practical implementation roadmap."
+      }
+    },
+    "process": {
+      "eyebrow": "How We Work",
+      "title": "A clear process from business problem to working system.",
+      "description": "We keep the process understandable, collaborative and focused on measurable improvement.",
+      "audit": {
+        "title": "Understand",
+        "description": "We examine the current workflow, the people involved, the tools being used and the problems creating delays or errors."
+      },
+      "plan": {
+        "title": "Design",
+        "description": "We map the improved process, define the required integrations and agree on what a successful result should look like."
+      },
+      "build": {
+        "title": "Build and test",
+        "description": "We develop the workflow in controlled stages, test real scenarios and confirm that the system behaves correctly."
+      },
+      "improve": {
+        "title": "Launch and improve",
+        "description": "We introduce the system, collect feedback, monitor results and improve it as the needs of the business become clearer."
+      }
+    },
+    "engagement": {
+      "eyebrow": "Ways to Work With Us",
+      "title": "Choose the level of support your business needs.",
+      "description": "Start with a clear assessment, commission a complete automation project or receive continued support after launch.",
+      "audit": {
+        "label": "Starting point",
+        "title": "Workflow Audit",
+        "description": "We review one important business process and identify delays, repeated work, unnecessary costs and realistic automation opportunities.",
+        "bestForLabel": "Best for",
+        "bestFor": "Businesses that know something is inefficient but are not yet sure what should be automated.",
+        "button": "Request an audit"
+      },
+      "project": {
+        "label": "Complete implementation",
+        "title": "Automation Project",
+        "description": "We design, build, test and launch a complete workflow or AI-assisted business system based on agreed requirements.",
+        "bestForLabel": "Best for",
+        "bestFor": "Businesses with a clear operational problem that need a working solution rather than general advice.",
+        "button": "Discuss a project"
+      },
+      "support": {
+        "label": "Continued partnership",
+        "title": "Ongoing Support",
+        "description": "We maintain, monitor and improve existing workflows as your business, tools and operational needs change.",
+        "bestForLabel": "Best for",
+        "bestFor": "Teams that want reliable assistance after launch without hiring a full internal automation department.",
+        "button": "Discuss ongoing support"
+      }
+    },
+    "difference": {
+      "eyebrow": "Services and Solutions",
+      "title": "Two different ways Risein AI creates value.",
+      "description": "Our services are customised around the specific processes and needs of each client. Our solutions are products and platforms we have already built or are actively developing.",
+      "servicesLabel": "Services",
+      "servicesTitle": "What we can build for you",
+      "servicesDescription": "Consulting, implementation, integration and continued support designed around your organisation.",
+      "solutionsLabel": "Solutions",
+      "solutionsTitle": "Products and systems we have built",
+      "solutionsDescription": "Explore TaLi SmartBookkeeper, PersonaLab AI, Risein AI Opportunities and our other product platforms.",
+      "solutionsButton": "Explore Risein AI solutions"
+    },
+    "cta": {
+      "title": "What repetitive process is slowing your business down?",
+      "description": "Describe the task, workflow or business problem. We will help you understand whether automation can solve it and what the next practical step should be.",
+      "button": "Book Your Workflow Audit"
+    }
+  }
+}

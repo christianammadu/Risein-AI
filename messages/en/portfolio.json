@@ -1,0 +1,131 @@
+{
+  "PortfolioPage": {
+    "metadata": {
+      "title": "AI Products and Business Solutions",
+      "description": "Explore Risein AI solutions including TaLi SmartBookkeeper, PersonaLab AI, business opportunity platforms and intelligent automation systems."
+    },
+    "hero": {
+      "eyebrow": "Risein AI Solutions",
+      "title": "Products and platforms built to solve real business and career problems.",
+      "description": "Our solutions turn practical ideas into working systems—from conversational bookkeeping and market validation to opportunities, communities and connected business platforms.",
+      "primaryButton": "Discuss a Solution",
+      "secondaryButton": "Explore Our Services"
+    },
+    "introduction": {
+      "eyebrow": "What We Build",
+      "title": "More than concepts. Practical systems designed for real users.",
+      "description": "Each Risein AI solution begins with a clear problem and is developed around accessibility, practical value and measurable improvement.",
+      "stat1": {
+        "value": "AI-powered",
+        "label": "Focused products that assist users with defined tasks."
+      },
+      "stat2": {
+        "value": "Chat-first",
+        "label": "Accessible experiences through tools people already understand."
+      },
+      "stat3": {
+        "value": "Built to grow",
+        "label": "Modular platforms designed for continued development."
+      }
+    },
+    "tali": {
+      "eyebrow": "Flagship Solution",
+      "title": "TaLi SmartBookkeeper",
+      "subtitle": "Bookkeeping and business management through conversation.",
+      "description": "TaLi turns WhatsApp and Telegram into an intelligent financial workspace for small businesses. Users can record sales, purchases, stock and debts in simple everyday language and receive organised business information in return.",
+      "status": "Working prototype",
+      "button": "Discuss TaLi",
+      "previewTitle": "Business transaction assistant",
+      "previewUser": "Business owner",
+      "previewMessage": "I sold five bags of rice for ₦180,000. The customer paid ₦120,000 and will pay the balance later.",
+      "previewResponse": "Transaction recorded successfully.",
+      "previewDetails": "Sale: ₦180,000 · Payment received: ₦120,000 · Customer debt: ₦60,000",
+      "features": {
+        "transactions": {
+          "title": "Transaction recording",
+          "description": "Record sales, purchases and expenses through natural conversation."
+        },
+        "inventory": {
+          "title": "Inventory tracking",
+          "description": "Monitor stock movements and receive warnings when items run low."
+        },
+        "debts": {
+          "title": "Debt tracking",
+          "description": "Keep organised records of customers who still owe money."
+        },
+        "reports": {
+          "title": "Business summaries",
+          "description": "Receive understandable financial and operational reports."
+        }
+      }
+    },
+    "persona": {
+      "eyebrow": "Market Intelligence",
+      "title": "PersonaLab AI",
+      "subtitle": "Test an idea against simulated customer perspectives.",
+      "description": "PersonaLab helps founders and teams examine how different customer groups may respond to a product, service, campaign or policy before investing heavily in development.",
+      "status": "Prototype developed",
+      "button": "Discuss PersonaLab",
+      "previewEyebrow": "Customer Simulation",
+      "previewTitle": "What could different customers think about your idea?",
+      "features": {
+        "personas": {
+          "title": "Diverse customer personas",
+          "description": "Review the idea from different demographic and behavioural perspectives."
+        },
+        "validation": {
+          "title": "Concept validation",
+          "description": "Identify possible interest, objections and adoption barriers."
+        },
+        "feedback": {
+          "title": "Structured feedback",
+          "description": "Compare customer reactions instead of receiving one generic opinion."
+        },
+        "recommendations": {
+          "title": "Practical recommendations",
+          "description": "Receive suggestions for positioning, pricing and product improvement."
+        }
+      }
+    },
+    "platforms": {
+      "eyebrow": "Risein AI Ecosystem",
+      "title": "Platforms designed to connect people with useful opportunities.",
+      "description": "Our growing ecosystem combines access to opportunities, knowledge, community support and professional services.",
+      "opportunities": {
+        "label": "Careers and Growth",
+        "title": "Risein AI Opportunities",
+        "description": "A platform for discovering jobs, internships, events, certifications, grants and other growth opportunities across Europe and Africa.",
+        "status": "In development"
+      },
+      "community": {
+        "label": "Knowledge and Support",
+        "title": "Risein AI Community",
+        "description": "A focused environment where members can ask questions, exchange practical knowledge and support one another's professional progress.",
+        "status": "Planned platform"
+      },
+      "marketplace": {
+        "label": "Services and Resources",
+        "title": "Risein Marketplace",
+        "description": "A future marketplace connecting users with trusted experts, language teachers, digital resources, mentors and professional support.",
+        "status": "Future release"
+      }
+    },
+    "custom": {
+      "eyebrow": "Custom Systems",
+      "title": "Not every business problem needs a ready-made product.",
+      "description": "Alongside our own platforms, Risein AI creates custom workflows and AI-assisted systems for organisations with specific operational needs.",
+      "items": {
+        "one": "Automated customer support and request management.",
+        "two": "Connected finance, sales and administrative workflows.",
+        "three": "Internal knowledge assistants and information systems.",
+        "four": "Custom integrations between existing business tools."
+      },
+      "button": "Explore Our Services"
+    },
+    "cta": {
+      "title": "Interested in one of our solutions or a custom system?",
+      "description": "Tell us which product interests you or describe the problem your organisation needs to solve.",
+      "button": "Start a Conversation"
+    }
+  }
+}
